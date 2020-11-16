@@ -89,4 +89,5 @@ Isso nem sempre é aceitável e, em muitos casos, você pode querer manter seus 
 }
 ```
 
+**Fonte**:https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/ 
 
